@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Brass Lamp
+title: Research
 email: thomascountz@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A site dedicated to the construction of the brass table lamp designed and built by Thomas Countz
-# baseurl: "/brass-lamp" # the subpath of your site, e.g. /blog
+  A site to document my ongoing research & projects
+# baseurl: "/research" # the subpath of your site, e.g. /blog
 # url: "thomascountz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: thomascountz
 github_username:  thomascountz
@@ -43,7 +43,7 @@ last_edit_timestamp: true
 last_edit_time_format: "%A, %d %b %Y %H:%M"
 gh_edit_link: true
 gh_edit_link_text: "Edit this page on GitHub."
-gh_edit_repository: "https://github.com/thomascountz/brass-lamp"
+gh_edit_repository: "https://github.com/thomascountz/research"
 gh_edit_branch: "main"
 gh_edit_view_mode: "tree"
 
