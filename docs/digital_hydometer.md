@@ -14,7 +14,9 @@ nav_order: 2
 
 ## Overview
 
-Pilot is a digital hydrometer and thermometer that is placed inside a fermentation vessel during the fermentation of beer, wine, cider, mead, etc. It produces a continual log of gravity and temperature measurements without the need for human interaction or removal of a sample. By leveraging the principles of buoyancy, density, and gravity, measured and tracked with accelerometers, temperature sensors, and opensource software, it is not only possible to build such a device, but to make it accessible to tech-literate home brewers.
+A hydrometer is a tool used to measure the specific gravity, or relative density, of a given liquid based on the principle of buoyancy. In alcoholic beverage brewing, a hydrometer is able to measure the amount of alcohol in a liquid because of the direct correlation between specific gravity and ethanol concentration. A typical hydrometer used in home brewing involves extracting a sample of the brewing liquid into a graduated cylinder and placing a floating hydrometer into the liquid. Taking these measurements before and after brewing allows the brewer to calculate the amount of sugar consumed by the brewing yeast and converted into alcohol.
+
+Pilot is a digital hydrometer and thermometer that is placed inside a fermentation vessel during the entire fermentation process of beer, wine, cider, mead, etc. It produces a continual log of gravity and temperature measurements without the need for human interaction or removal of a sample. By leveraging the principles of buoyancy, density, and gravity, measured and tracked with accelerometers, temperature sensors, and opensource software, it is not only possible to build such a device, but to make it accessible to tech-literate home brewers.
 
 ### How it Works
 ![](../assets/images/pilot_architecture.png)
