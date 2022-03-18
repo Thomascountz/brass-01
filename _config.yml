@@ -36,8 +36,10 @@ plugins:
 # Just the Docs Config: https://pmarsceill.github.io/just-the-docs/docs/configuration/
 search_enabled: true
 aux_links:
-  "About Thomas":
+  "Blog ⭜":
     - "//thomascountz.com"
+  "Twitter ⭜":
+    - "//twitter.com/thomascountz"
 aux_links_new_tab: true
 heading_anchors: true
 last_edit_timestamp: true 
