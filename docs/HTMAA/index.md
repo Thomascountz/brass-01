@@ -14,7 +14,7 @@ has_toc: false
 
 In this well-known course, students are taught how to design, plan, prototype, fabricate, and document projects that explore the boundary between computer science and the physical world by "...turning data into things and things into data."
 
-The course materials and previous students' projects are available [online](https://fab.cba.mit.edu/classes/MAS.863/), so I decided to follow along at home and build some fun projects at the fab lab's around Copenhagen!
+The course materials and previous students' projects are available [online](https://fab.cba.mit.edu/classes/MAS.863/), and I decided to follow along and build some fun projects at the fab labs around Copenhagen!
 
 ---
 
