@@ -14,16 +14,20 @@ I enjoy writing a [blog](https://thomascountz.com/), but it's here that I write 
 
 ---
 
-## [Off The Record - Build-your-own ActiveRecord](/docs/off-the-record)
-{: .fs-6 .mb-3}
+## [Off The Record](/docs/off_the_record)
+{: .fs-6 .mb-1}
+### Build-your-own Active Record 
+{: .fs-5 .mt-1 .mb-3}
 
 Active
 {: .label .label-green .m-0}
 
 Together we'll write a feature-light database ORM (object-relational mapping) tool in Ruby; a VERY feature-light [ActiveRecord](https://github.com/rails/rails/tree/main/activerecord), if you will. In the process, we'll learn more about databases, meta-programming, test-driven development, and ActiveRecord itself.
 
-## [Pilot - Digial Hydrometer](/docs/pilot)
-{: .fs-6 .mb-3}
+## [Pilot](/docs/pilot)
+{: .fs-6 .mb-1}
+### Digital Hydrometer
+{: .fs-5 .mt-1 .mb-3}
 
 Archived
 {: .label .label-yellow .m-0 }

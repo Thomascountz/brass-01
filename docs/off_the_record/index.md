@@ -3,10 +3,9 @@ layout: default
 title: Off The Record
 nav_order: 2
 has_children: true
-has_toc: false
 ---
 
-# Off The Record - Build-your-own ActiveRecord
+# Off The Record
 {: .fs-9 }
 
 [Off The Record](#) is a research project design to take us on a deep dive into [ActiveRecord](https://github.com/rails/rails/tree/main/activerecord), meta-programming, library design, and databases.
