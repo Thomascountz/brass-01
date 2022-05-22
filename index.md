@@ -14,24 +14,24 @@ I enjoy writing a [blog](https://thomascountz.com/), but it's here that I write 
 
 ---
 
-## [How to Make (Almost) Anything](/docs/HTMAA)
-{: .fs-6 .mb-3 .d-none}
+## [Off The Record - Build-your-own ActiveRecord](/docs/off-the-record)
+{: .fs-6 .mb-3}
 
 Active
-{: .label .label-green .m-0 .d-none}
+{: .label .label-green .m-0}
 
-[How to Make (Almost) Anything](https://fab.cba.mit.edu/classes/MAS.863/) is a class taught by [Neil Gershenfeld](http://ng.cba.mit.edu/neil/bio/), the Director of [The Center for Bits and Atoms](http://cba.mit.edu/) at MIT. In this project, I log my journey as I learn about CAD, laser cutting, 3D printing, molding, PCB fabrication, firmware development, and more to build a final project.
-{: .d-none}
+Together we'll write a feature-light database ORM (object-relational mapping) tool in Ruby; a VERY feature-light [ActiveRecord](https://github.com/rails/rails/tree/main/activerecord), if you will. In the process, we'll learn more about databases, meta-programming, test-driven development, and ActiveRecord itself.
 
-
-## [Pilot](/docs/pilot)
+## [Pilot - Digial Hydrometer](/docs/pilot)
 {: .fs-6 .mb-3}
 
 Archived
 {: .label .label-yellow .m-0 }
 
-
 Pilot is a design for a digital hydrometer used to measure the progression of home brewing alcoholic beverages. Pilot uses an accelerometer, wireless communication, and the principles of buoyancy to determine the specific gravity of the brewing liquid.
+
+## [How to Make (Almost) Anything](/docs/HTMAA)
+{: .fs-6 .mb-3 .d-none}
 
 ---
 
