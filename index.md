@@ -15,12 +15,13 @@ I enjoy writing a [blog](https://thomascountz.com/), but it's here that I write 
 ---
 
 ## [How to Make (Almost) Anything](/docs/HTMAA)
-{: .fs-6 .mb-3}
+{: .fs-6 .mb-3 .d-none}
 
 Active
-{: .label .label-green .m-0 }
+{: .label .label-green .m-0 .d-none}
 
 [How to Make (Almost) Anything](https://fab.cba.mit.edu/classes/MAS.863/) is a class taught by [Neil Gershenfeld](http://ng.cba.mit.edu/neil/bio/), the Director of [The Center for Bits and Atoms](http://cba.mit.edu/) at MIT. In this project, I log my journey as I learn about CAD, laser cutting, 3D printing, molding, PCB fabrication, firmware development, and more to build a final project.
+{: .d-none}
 
 
 ## [Pilot](/docs/pilot)

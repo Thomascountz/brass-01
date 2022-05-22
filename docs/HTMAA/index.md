@@ -1,7 +1,7 @@
 ---
 layout: default
 title: How to Make (Almost) Anything
-nav_order: 2
+nav_exclude: true
 has_children: true
 has_toc: false
 ---
